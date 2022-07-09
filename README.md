@@ -1,3 +1,3 @@
-# forkify Project
+# Forkify App Project
 
-Recipe application with custom recipe uploads.
+Recipe application with custom recipe uploads -- writtern with pure JavaScript.
